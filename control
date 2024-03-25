@@ -1,0 +1,9 @@
+Package: com.34306.replaced
+Name: replaced
+Author: 34306
+Description: Remove the notification that the P
+Depends: mobilesubstrate, firmware (>= 15.0)
+Maintainer: Little 34306
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0
